@@ -42,7 +42,6 @@ Détection de spam SMS via **NLP + Machine Learning**, plutôt que des règles m
 ## Structure
 ```
 ├── spam_pipeline_final.ipynb   # notebook complet (standalone)
-├── app.py                      # application Flask
 ├── data/                       # dataset UCI
 └── output/                     # graphiques générés
 ```
